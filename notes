@@ -1,0 +1,7 @@
+//Sort an array
+sort(arr), arr.end());
+
+//Queue of Pairs
+queue <pair<int,int>> q;
+
+
